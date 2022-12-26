@@ -22,7 +22,7 @@ pod 'AESegmentedControl'
 
 ## Author
 
-aelarassi, elarassi.abdelaziz@gmail.com
+aelarassi, hi@aelarassi.com
 
 ## License
 
