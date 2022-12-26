@@ -10,7 +10,6 @@ Pod::Spec.new do |s|
                          DESC
 
   s.homepage         = 'https://github.com/aelarassi/AESegmentedControl'
-  s.screenshots      = 'https://github.com/aelarassi/AESegmentedControl/blob/main/screencast.gif'
   s.license          = 'MIT'
   s.author           = { 'aelarassi' => 'hi@aelarassi.com' }
   s.source           = { :git => 'https://github.com/aelarassi/AESegmentedControl.git', :tag => s.version.to_s }
