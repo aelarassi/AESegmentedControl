@@ -1,0 +1,6 @@
+framework module AESegmentedControl {
+  umbrella header "AESegmentedControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
